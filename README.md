@@ -1,6 +1,7 @@
 # Welcome to WebWizards Studios!
 This repository contains our website, crafted using the latest frontend technologies and best practices. WebWizards Studios is a web development agency specializing in creating visually stunning and responsive websites for clients worldwide. In this README.md file, you'll find information about our services, portfolio of projects, as well as a guide on how to install and deploy our website. Thanks for stopping by!
 
+# [Video](https://youtu.be/WMc7Yeiygvc)
 
 ![screen_web_1](https://github.com/bekzobek/situational_task_2/assets/153498060/ce9d6081-c9ee-4064-bbc5-18ae84e9c07d)
 
