@@ -3,6 +3,8 @@ This repository contains our website, crafted using the latest frontend technolo
 
 # [Video](https://youtu.be/WMc7Yeiygvc)
 
+# https://bekzobek.github.io/situational_task_2/
+
 ![screen_web_1](https://github.com/bekzobek/situational_task_2/assets/153498060/ce9d6081-c9ee-4064-bbc5-18ae84e9c07d)
 
 
